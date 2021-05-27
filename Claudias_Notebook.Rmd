@@ -5,7 +5,7 @@ output: html_notebook
 
 Workflow 
 
-I just want to see a change again - to view version control updates in git
+I just want to see a change again - to view version control updates in  - why isn't this working?
 
 1. Get the data - import SAS dataset 
 
